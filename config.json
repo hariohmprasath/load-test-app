@@ -1,5 +1,5 @@
 {
-    "TargetValue":30,
+    "TargetValue":15,
     "CustomizedMetricSpecification":{
        "MetricName":"CONCURRENCY",
        "Namespace":"APPULSE",
