@@ -1,0 +1,17 @@
+{
+    "TargetValue":30,
+    "CustomizedMetricSpecification":{
+       "MetricName":"CONCURRENCY",
+       "Namespace":"APPULSE",
+       "Dimensions":[
+          {
+             "Name":"QUALIFIER",
+             "Value":"FUNCTION_ARN"
+          }
+       ],
+       "Statistic":"Maximum",
+       "Unit":"Percent"
+    },
+    "ScaleOutCooldown":45
+ }
+ 
